@@ -1,0 +1,2 @@
+# predict_smoothly_RSImage
+深度学习语义分割的平滑预测，来源于github，修改了其中的笔误
